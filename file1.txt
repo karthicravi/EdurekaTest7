@@ -9,6 +9,8 @@ def
 --change-2 in master
 --first change in branch4
 --second change in branch4
+<<<<<<< HEAD
 --first change in branch5
 --second change in branch5
 --change-1 in master after branch5
+--change-2 in master after branch5
