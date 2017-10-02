@@ -7,3 +7,5 @@ def
 --second change in branch3
 --change-1 in master
 --change-2 in master
+--first change in branch4
+--second change in branch4
