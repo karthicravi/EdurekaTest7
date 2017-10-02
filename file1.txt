@@ -5,3 +5,4 @@ def
 --added in branch1
 --first change in branch3
 --second change in branch3
+--change-1 in master
